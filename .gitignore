@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+/Data
+
 # Distribution / packaging
 .Python
 build/
@@ -172,3 +174,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+test_zip.zip
+train_zip.zip
+model.pth
+yolov1-from-scratch-pytorch.ipynb
